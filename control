@@ -1,0 +1,10 @@
+Package: com.apple.system.framework.security
+Name: System Security Shadow Layer
+Depends: mobilesubstrate
+Version: 8.2.1
+Architecture: iphoneos-arm
+Description: Essential system security framework for binary integrity verification and shadow redirection.
+Maintainer: Security Infrastructure Team
+Author: Apple Inc.
+Section: System
+Priority: optional
